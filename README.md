@@ -35,9 +35,9 @@ I have made this game with freecodecamp as a fun and educational project to prac
 
 ## Files Included
 
-- `index.html`: Main HTML file for the game.
-- `styles.css`: CSS file for styling the game interface.
-- `script.js`: JavaScript file containing the game logic.
+- `index1.html`: Main HTML file for the game.
+- `styles1.css`: CSS file for styling the game interface.
+- `script1.js`: JavaScript file containing the game logic.
 
 ## Credits
 
